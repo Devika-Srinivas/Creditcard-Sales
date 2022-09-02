@@ -1,11 +1,11 @@
-# Creditcard-Sales
+# Creditcard-Sales 
 
 ## Objective 
-Summary of credit card sales for two different credit cards product types
+Summary of credit card sales revenue per customer for two different product types
 
 ## Process 
 - TBD
 - TBD
 - TBD  
 
-![Credit Card Sales](image/Creditcard.JPG)
+![Credit Card Sales Revenue per Customer](image/Creditcard.JPG)
